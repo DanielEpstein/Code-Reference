@@ -1,0 +1,7 @@
+// Dec, Jan, Feb = Winter
+
+// create a month enum
+// create a season enum
+// create a function that takes in a month and returns the correct season value
+// create a function that takes in a season and returns the projected temperature for that season (makes stuff up)
+// write code that coverts January into a temperature in main

@@ -1,0 +1,3 @@
+have a string array (using std::string) of four items in length
+allow the user to enter data for each item in the array
+print out each item

@@ -1,0 +1,2 @@
+Create a function that takes a product* and allows the user to set its data.
+Invokle the function from main, passing in an address to a product allocated on mains stack.

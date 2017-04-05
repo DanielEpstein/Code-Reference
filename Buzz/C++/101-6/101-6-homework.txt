@@ -1,0 +1,6 @@
+Write a Linked List implementation using structures and functions.
+
+Allow the user to enter as many numbers as they want, allowing them to stop entering number when the user enters '0'. Find the average of all numbers, and display it to the user.
+
+Bonus
+Replace the vector used in last weeks homework with your linked list. Good luck with bubble sortting.

@@ -1,0 +1,7 @@
+modify the version of last week's vending machine.
+The functionality of the program should remain the same.
+However; the code need to be refactored into individual .cpp files, header files and functions
+
+No Function - including main - may be more than 40 lines of code when formatted normally.
+
+

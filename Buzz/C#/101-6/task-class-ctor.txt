@@ -1,0 +1,9 @@
+Your goal is create a Car class that has the same state as what is defined below.
+HOWEVER; make each field private, and create a read only property that allows get access
+to each one.
+
+Create a ctor that accepts name, year, number of doors and color and assigns
+each param to the correct field. Delete the paramaterless ctor.
+
+In main: create two car with different arguments passed into the ctor, and have them be
+displayed by using the Display() mehtod.

@@ -1,0 +1,22 @@
+Write a basic product inventory system that allows the user to enter product names and product prices (allow for cents; currency type is irrelevant) and save that data to a file called inventory.txt
+
+The program will load that data again (if the files exists - exception handling) when it starts.
+
+The program will allow the user to enter new products, remove existing products and display current products.
+
+The product will use enums to track state, and should use different methods correctly to keep individual method line count down.
+
+No individual method should be larger than 50 lines of code.
+
+scope
+-------
+check to see if database exists and then load data
+if not
+then create new database
+(exception handling?)
+
+
+load main menu with the following options
+1. enter new products
+2. remove existing products
+3. display current products

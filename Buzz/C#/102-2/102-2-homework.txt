@@ -1,0 +1,27 @@
+Create the state machine inplementation (can use what was gone over in the video).
+
+States:
+Main Menu State
+Load File State
+ - Allow the user to choose a file given a list of files to choose from
+
+Save File State
+ - ask you for a file name
+ - save an EMPTY TEXT given the provided name
+ - confirm to the user if the file name already exists
+
+New Game State
+
+Commands:
+Switch State Command
+Help Command
+Load File Command
+Save File Command
+New Game Command
+
+For al of the states: allow the user to return to the main menu.
+
+New Game will be a DEAD END!
+- Console.WriteLine("THIS IS A GAME");
+
+

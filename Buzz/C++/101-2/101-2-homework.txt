@@ -1,0 +1,17 @@
+
+
+Ask the user how much money they have.
+Present a list of products to the user.
+There must be at least 4 products listed (name and prices).
+The user will select an item from the product list or they will indicate that they want to exit.
+The  program will inform the user what item they purchased and how much money they have left.
+The program will continue to execute until the user doesn't have enough money to purchase anything, or decides to exit.
+Remember to allow for pennies / cents / etc. in prices.
+
+Allowed to use:
+- while loops
+- if statements
+- cin / cout
+- arrays (if you want)
+- any primitive data type
+- variables

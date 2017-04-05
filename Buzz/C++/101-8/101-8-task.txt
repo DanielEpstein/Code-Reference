@@ -1,0 +1,10 @@
+Write a Shape Class that has
+- a method that returns how many corners it has
+- a method that reutnrs what its area is
+
+Write a circle class that inherits from shape
+- allow the user to set the radius
+- provide methos for returning corners and area
+- this may not work as you expect, if not dont worry ;)
+
+

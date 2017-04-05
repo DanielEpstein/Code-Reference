@@ -1,0 +1,9 @@
+Create an abstract Pet class that has abstract functionality (at least 3 methods). It must have a "string Name" read-only property that is filled by a paramater to the ctor. At least one of the method must take in paramaters, and at least one of the methods must return a value instead of printing things to the console.
+
+Create four implementations of the Pet class that all appropriately implement the different methods.
+
+Allow the user is done entering in pets, allow the user to
+A) select a pet
+B) perform an operation
+	- You will have to collect the arguments from the user requred to invoke a method that has paramaters.
+C) Repeat A-B until the user decides to quit

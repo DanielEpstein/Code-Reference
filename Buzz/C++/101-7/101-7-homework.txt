@@ -1,0 +1,1 @@
+Write the linked list implementation from last week in terms of classes instead of functions and structures (try to start over if you are unclear on linked lists)

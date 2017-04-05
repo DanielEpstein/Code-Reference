@@ -1,0 +1,7 @@
+Modify vending machine
+
+At the beginning of the program, allow the user to enter 4 products (name and price). You do not need to support names with spaces in them (but you may if you wish) - and you still do not need to woryy about input validation.
+
+The rest of the program will continue to hehave as before, except that products must be displayed to the user in ascending order of price (bubble sort).
+
+No fuctions allow other than main!

@@ -1,0 +1,12 @@
+item1
+ffdsfdsfsd
+10000
+item2
+fdgfdsgfds
+432
+item3
+fdfdsfds
+10
+item4
+fdsfdsa
+500
